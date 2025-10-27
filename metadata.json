@@ -1,0 +1,5 @@
+{
+  "name": "NutriNest",
+  "description": "A web application prototype for NutriNest, a healthy meal subscription platform for students and working professionals. Users can sign up, customize meals, choose subscription plans, select start dates, and confirm their subscription.",
+  "requestFramePermissions": []
+}
